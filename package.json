@@ -74,7 +74,7 @@
     "style-loader": "^0.18.2",
     "to-camel-case": "^1.0.0",
     "ts-loader": "^2.0.3",
-    "ts-node": "^3.2.0",
+    "ts-node": "^8.0.0",
     "tslint": "^4.5.1",
     "tslint-microsoft-contrib": "^4.0.1",
     "typescript": "2.5.2",
