@@ -64,7 +64,7 @@
     "legal-eagle": "0.15.0",
     "mocha": "^3.4.2",
     "node-native-loader": "^1.1.1",
-    "node-sass": "^4.5.2",
+    "node-sass": "^6.0.1",
     "octicons": "^6.0.1",
     "parallel-webpack": "^2.1.0",
     "request": "^2.72.0",
